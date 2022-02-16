@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdarg.h>
-#include <jansson.h>
+#include "jansson.h"
 
 #include "searpc-server.h"
 #include "searpc-utils.h"
