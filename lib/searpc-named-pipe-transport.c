@@ -1,7 +1,7 @@
 #include <errno.h>
 #include <stdint.h>
 #include <string.h>
-#include <pthread.h>
+#include "pthread.h"
 
 #if !defined(WIN32)
   #include <sys/types.h>
