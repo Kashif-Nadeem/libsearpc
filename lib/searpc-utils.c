@@ -1,7 +1,7 @@
 #include <errno.h>
-#include <glib.h>
-#include <glib-object.h>
-#include <jansson.h>
+#include "glib.h"
+#include "glib-object.h"
+#include "jansson.h"
 
 #include "searpc-utils.h"
 
