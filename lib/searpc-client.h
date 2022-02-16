@@ -7,9 +7,9 @@
 #define LIBSEARPC_API
 #endif
 
-#include <glib.h>
-#include <glib-object.h>
-#include <jansson.h>
+#include "glib.h"
+#include "glib-object.h"
+#include "jansson.h"
 
 #ifndef DFT_DOMAIN
 #define DFT_DOMAIN g_quark_from_string(G_LOG_DOMAIN)
